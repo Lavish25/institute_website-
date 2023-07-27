@@ -1,0 +1,31 @@
+header {
+    background-color: #2b2d38;
+    padding: 20px;
+    
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 780px; 
+}
+
+nav ul li {
+     margin-left: 22px; 
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #bbc3d1;
+    border-radius: 5px;
+}
+p{
+    color:white;
+}

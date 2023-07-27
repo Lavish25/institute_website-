@@ -1,0 +1,17 @@
+h2{
+    color: red;
+}
+
+form{
+    background-color: rgb(197, 196, 255);
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin-inline: 400px;
+    padding: 52px;
+    
+    
+}
+#pic {
+    background-image: url('./images/lavish.jpeg');
+}
